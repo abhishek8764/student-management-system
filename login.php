@@ -14,12 +14,12 @@ die;
 <tittle>sms</tittle>
 </head>
 <body>
-<h1 align="center"> welcome S.M.S login page </h1>
+<h1 align="center"> Welcome S.M.S login page </h1>
 <h3 align="right"><a href="admin/logout.php" >logout</a></h3>
 <form action="login.php" method="post">
 <table style="width:50%" align="center" border="1"   >
 <tr>
-<td align="center" colspan="2">admin login </td>
+<td align="center" colspan="2">Admin signin </td>
 </tr>
 
 
